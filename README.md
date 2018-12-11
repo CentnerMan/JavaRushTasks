@@ -1,0 +1,2 @@
+# JavaRushTasks
+Задачки Java Rush
